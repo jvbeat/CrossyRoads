@@ -1,2 +1,2 @@
 # CrossyRoads
-https://crossy-roads-npibbl75l-jvbeat.vercel.app
+https://crossy-roads.vercel.app
